@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background:#f0e7e7;
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -21,16 +21,17 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background:linear-gradient(rgba(255,255,255,.85)) ;
+
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family:'Times New Roman', Times, serif;
+  color: #291313;
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 3.0em;
   margin-bottom: 0;
 }
 
